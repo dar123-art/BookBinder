@@ -1,0 +1,389 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkyBookWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BulkyBookWeb.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\images\\book.png",
+      "PackagePath": "staticwebassets\\images\\book.png"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\images\\product\\cotton candy.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\cotton candy.jpg"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\images\\product\\dark skies.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\dark skies.jpg"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\images\\product\\fortune of time.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\fortune of time.jpg"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\images\\product\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\images\\product\\leaves and wonders.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\leaves and wonders.jpg"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\images\\product\\rock in the ocean.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\rock in the ocean.jpg"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\images\\product\\vanish in the sunset.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\vanish in the sunset.jpg"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\images\\products\\product-1\\f8094265-0d93-47f1-858a-bbc75f66beb8.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\f8094265-0d93-47f1-858a-bbc75f66beb8.jpg"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\images\\products\\product-1\\fortune of time back.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\fortune of time back.jpg"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\images\\products\\product-1\\fortune of time.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\fortune of time.jpg"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\images\\products\\product-2\\0c27a4d5-ac0d-4847-a824-778a49b0ae81.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\0c27a4d5-ac0d-4847-a824-778a49b0ae81.jpg"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\images\\products\\product-2\\dark skies back.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\dark skies back.jpg"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\images\\products\\product-2\\dark skies.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\dark skies.jpg"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\images\\products\\product-3\\4e218a6a-0179-477f-b0d1-e345a6dcd3a9.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3\\4e218a6a-0179-477f-b0d1-e345a6dcd3a9.jpg"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\images\\products\\product-3\\vanish in the sunset back.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3\\vanish in the sunset back.jpg"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\images\\products\\product-3\\vanish in the sunset.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3\\vanish in the sunset.jpg"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\images\\products\\product-4\\9e9ecf24-605e-4218-9c75-806fff8aebc7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\9e9ecf24-605e-4218-9c75-806fff8aebc7.jpg"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\images\\products\\product-4\\cotton candy back.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\cotton candy back.jpg"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\images\\products\\product-4\\cotton candy.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\cotton candy.jpg"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\images\\products\\product-5\\0f95051e-6595-41ae-b67d-2c9668964a8f.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-5\\0f95051e-6595-41ae-b67d-2c9668964a8f.jpg"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\images\\products\\product-5\\rock in the ocean back.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-5\\rock in the ocean back.jpg"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\images\\products\\product-5\\rock in the ocean.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-5\\rock in the ocean.jpg"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\images\\products\\product-6\\899e7b34-6848-43b2-a395-beaafd9d5610.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-6\\899e7b34-6848-43b2-a395-beaafd9d5610.jpg"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\images\\products\\product-6\\leaves and wonder back.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-6\\leaves and wonder back.jpg"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\images\\products\\product-6\\leaves and wonders.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-6\\leaves and wonders.jpg"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\intenship\\project\\Bulky_MVC-master\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BulkyBookWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BulkyBookWeb.props",
+      "PackagePath": "build\\BulkyBookWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BulkyBookWeb.props",
+      "PackagePath": "buildMultiTargeting\\BulkyBookWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BulkyBookWeb.props",
+      "PackagePath": "buildTransitive\\BulkyBookWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
